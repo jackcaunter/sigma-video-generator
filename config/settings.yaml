@@ -1,0 +1,6 @@
+directories:
+  background_videos_dir: "input/background_videos"
+  music_dir: "input/music"
+  generated_text_dir: "input/generated_text"
+  generated_tts_dir: "input/generated_tts"
+  rendered_dir: "rendered"
