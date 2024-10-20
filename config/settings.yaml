@@ -4,3 +4,4 @@ directories:
   generated_text_dir: "input/generated_text"
   generated_tts_dir: "input/generated_tts"
   rendered_dir: "rendered"
+  blender_executable: "/Applications/Blender.app/Contents/MacOS/Blender"

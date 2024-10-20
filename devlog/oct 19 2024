@@ -1,0 +1,8 @@
+
+decided not to automate the LLM phase just yet. better to manually select the text that goes forward for more processing, at
+this stage in development.
+
+hooked up the elevenlabs api, and got it working – returning audio and timestamps.
+
+tried to use Pedalboard by spotify to mixdown audio, ended up being way easier with PyDub.
+considering using Pedalboard for audio effects in the future.
