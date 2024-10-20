@@ -16,7 +16,10 @@ The Sigma Video Generator is an automated system that procedurally creates "enga
 
 ## Installation
 
-(Add installation instructions here, including setting up the virtual environment and installing dependencies)
+you should probably set up a venv.
+python dependencies are listed in `requirements.txt`.
+you also need to have blender installed, and then make sure the path to it is correct in `config/settings.yaml`.
+you also need to have `ffmpeg` and `ffprobe` installed, and executable, and accessible from your system path.
 
 ## Input
 Place input files in the appropriate subdirectories under the input/ directory:

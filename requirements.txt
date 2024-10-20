@@ -1,0 +1,11 @@
+certifi==2024.8.30
+charset-normalizer==3.4.0
+ffmpeg==1.4
+idna==3.10
+numpy==2.1.2
+pedalboard==0.9.16
+pydub==0.25.1
+python-dotenv==1.0.1
+PyYAML==6.0.2
+requests==2.32.3
+urllib3==2.2.3
