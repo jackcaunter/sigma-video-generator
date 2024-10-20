@@ -3,3 +3,5 @@ logs/
 __pychache__/
 .env
 venv
+input/background_videos
+input/images
