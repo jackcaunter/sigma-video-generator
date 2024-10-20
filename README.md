@@ -21,12 +21,12 @@ The Sigma Video Generator is an automated system that procedurally creates "enga
 ## Input
 Place input files in the appropriate subdirectories under the input/ directory:
 
-background_videos/: MP4 files for background videos
-generated_text/: Text files for input to TTS
-generated_tts/: JSON and MP3 files from TTS API
-images/: Image files for video composition
-inspiration/: Additional text input files (e.g., topics.txt)
-music/: Background music files with metadata about BPM and when the song drops
+- `background_videos/`: MP4 files for background videos
+- `generated_text/`: Text files for input to TTS
+- `generated_tts/`: JSON and MP3 files from TTS API
+- `images/`: Image files for video composition
+- `inspiration/`: Additional text input files (e.g., topics.txt)
+- `music/`: Background music files with metadata about BPM and when the song drops
 
 ## Usage
 
