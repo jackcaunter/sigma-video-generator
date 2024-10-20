@@ -16,6 +16,9 @@ def main():
     config = load_config()
     print("Listing available video clips:")
     list_video_clips(config)
+    # first, LLM (no implementation yet.)
+    # then, tts_generation
+    # then, audio_processor (should rename to audio mixer)
 
 if __name__ == "__main__":
     main()

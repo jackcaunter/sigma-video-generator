@@ -1,0 +1,7 @@
+{
+  "audio_filename": "output.mp3",
+  "full_text": "something's happening. something else too",
+  "alignment": {
+    "character_end_times_seconds": [0.07, 3.0]
+  }
+}
