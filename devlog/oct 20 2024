@@ -1,0 +1,10 @@
+started video generation. blender can now output a .mp4 file of a square.
+
+
+next up:
+use the timings in the metadata .json file in input/generated_tts to generate transparent text captions in blender.
+
+overlay these onto a background video (with a subway surfer on the bottom for good measure)
+and add the audio in blender too.
+
+need background video files. at least 1.
