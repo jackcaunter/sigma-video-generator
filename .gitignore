@@ -6,3 +6,5 @@ venv
 input/background_videos
 input/images
 output
+.DS_Store
+.DS_Store?
