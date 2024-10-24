@@ -24,6 +24,8 @@ you also need to have blender installed, and then make sure the path to it is co
 
 you also need to have `ffmpeg` and `ffprobe` installed, and executable, and accessible from your system path.
 
+> This is a test to show Jack some `git` stuff.
+
 ## Input
 Place input files in the appropriate subdirectories under the input/ directory:
 
